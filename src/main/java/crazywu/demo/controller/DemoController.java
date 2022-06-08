@@ -22,7 +22,7 @@ public class DemoController {
 
     @GetMapping("/hello")
     public String hello() {
-        return "hello from jenkins";
+        return "hello from ji";
     }
 
     @GetMapping("/user")
